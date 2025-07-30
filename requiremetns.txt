@@ -1,0 +1,2 @@
+python-dotenv>=1.0.1
+y360-orglib>=0.0.11
