@@ -14,4 +14,4 @@
 2. Установить зависимости `pip install -r requirements.txt`
 3. Запустить скрипт `python export_enabled_users.py`
 
-> Пользователи будут импортированы в файл `users.csv`
+> Пользователи будут импортированы в файл `enabled_users.csv`
